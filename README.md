@@ -49,7 +49,7 @@ Our vision is to create the world's first truly interoperable gaming economy whe
 
 ## Contract Address Details
 comtract id:ST2QESQJXMQ0R57BDPKY1WN2WRVAHQNGVC8MG8C0.GameAssetMarketplace
-<img width="1919" height="796" alt="Screenshot 2025-08-26 122613" src="https://github.com/user-attachments/assets/7372a22e-b4ef-4db0-8d3d-e5917b3aa275" />
+<img width="1188" height="785" alt="Screenshot 2025-08-26 143314" src="https://github.com/user-attachments/assets/85898086-d93f-4191-b590-9b9751135937" />
 
 
 - **Network**: Stacks Mainnet/Testnet
