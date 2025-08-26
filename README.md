@@ -48,14 +48,15 @@ Our vision is to create the world's first truly interoperable gaming economy whe
 - **Global Gaming Partnerships**: Establish partnerships with major game studios and publishers
 
 ## Contract Address Details
+comtract id:ST2QESQJXMQ0R57BDPKY1WN2WRVAHQNGVC8MG8C0.GameAssetMarketplace
+<img width="1919" height="796" alt="Screenshot 2025-08-26 122613" src="https://github.com/user-attachments/assets/7372a22e-b4ef-4db0-8d3d-e5917b3aa275" />
 
-*Contract address information will be added here once deployed*
 
 - **Network**: Stacks Mainnet/Testnet
 - **Contract Name**: gameasset-marketplace
-- **Contract Address**: [To be added]
-- **Deployment Block**: [To be added]
-- **Transaction ID**: [To be added]
+- **Contract Address**: ST2QESQJXMQ0R57BDPKY1WN2WRVAHQNGVC8MG8C0.GameAssetMarketplace
+- **Deployment Block**: ST2QESQJXMQ0R57BDPKY1WN2WRVAHQNGVC8MG8C0
+- **Transaction ID**: 0x9a686dfac32c39fabf334219f0a608218f2b8f2d09092f8b7ccd97bc0146954a
 
 ---
 
